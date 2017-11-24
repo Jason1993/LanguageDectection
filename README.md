@@ -1,4 +1,4 @@
-# Language Dectection
+# Language Detection
 ## This is a Fellowship.ai Challenge
 
 The training data set is from [European Parliament Proceedings Parallel Corpus](http://www.statmt.org/europarl/). And the [test data set](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/language-detection/europarl-test.zip) is from the link.
